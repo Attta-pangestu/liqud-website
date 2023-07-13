@@ -1,0 +1,20 @@
+:root {
+    --color-primary : #b667ff ;
+    --color-secondary : #3a0070 ;
+    --color-tertiary : #f999fe ;
+    --color-light: #fff ; 
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0; 
+    padding: 0;
+    outline: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+body {
+    font-family: ;
+}
