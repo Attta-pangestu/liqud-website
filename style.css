@@ -62,7 +62,26 @@ nav .container ul a {
     text-transform: uppercase;
     font-size: 0.8rem;
     transition: all 300ms ease;
-    
+
+}
+
+/* Header */
+
+section {
+    display: grid;
+    place-items: center;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    position: relative;
+    top: 3rem;
+
+}
+
+section .container h1 {
+    font-size: 10rem;
+    text-transform: uppercase;
+    color: var(--color-light);
 }
 
 
